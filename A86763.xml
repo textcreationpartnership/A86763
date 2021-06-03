@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of divers inhabitants of the city of London, and places adjacent, in the behalf of the poore of this nation. Together, vvith the humble representation of the presentors thereof. With the answer thereunto, and the names of those that are added to the Committee of Complaints, to whom those that find themselves agrieved, or can offer any thing for the good or the poor, may make their address. March 10. 1648-49. Imprimatur Theodore Jennings.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86763</idno><idno type="EEBO-CITATION">99865288</idno>
+  <idno type="VID">117527</idno>
+  <idno type="EEBO-PROQUEST">2240919867</idno>
+  
+            <idno type="STC">Wing H3456</idno>
+            <idno type="STC">Thomason E546_15</idno>
+            <idno type="STC">ESTC R206104</idno>
+            <idno type="PROQUEST">99865288</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865288e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117527)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of divers inhabitants of the city of London, and places adjacent, in the behalf of the poore of this nation. Together, vvith the humble representation of the presentors thereof. With the answer thereunto, and the names of those that are added to the Committee of Complaints, to whom those that find themselves agrieved, or can offer any thing for the good or the poor, may make their address. March 10. 1648-49. Imprimatur Theodore Jennings.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poor --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117527:1"/>
+            <p>THE HUMBLE PETITION OF DIVERS INHABITANTS Of the City of LONDON, AND Places adjacent, in the behalf of the poore of this Nation.</p>
+            <p>TOGETHER, VVith the humble Representation of the Presentors thereof.</p>
+            <p>WITH The Answer thereunto, and the Names of those that are added to the Committee of Complaints, to whom those that find themselves agrieved, or can offer any thing for the good of the poor, may make their address.</p>
+            <p>
+               <hi>March</hi> 10. 1648-49. <hi>Imprimatur</hi> THEODORE JENNINGS.</p>
+            <p>
+               <hi>LONDON, Printed by</hi> John Clowes, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:117527:2"/>
+            <head>To the Honourable, the supream Authority of this Nation, the Commons of ENGLAND, chosen for, and Assembled in Parliament; intrusted to mannage the great Affaires of this Nation, for the good of the same. <hi>The humble Representation of the Presentors of this annexed Petition entituled The Humble Petition of divers Inhabitants of the City of</hi> London, <hi>and places adjacent, in the behalf of the poor of this Nation.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as God delights in mercy, and hath expressed his tender care for the poor, the Fatherlesse, and the Widdow; so wicked men practice cruelty, oppres<g ref="char:EOLhyphen"/>sing the poor, wronging the Fatherlesse, and not regarding the Widdowes Cause: It being the practice of most men to seeke the good of them<g ref="char:EOLhyphen"/>selves, and their friends: And few the good of the Nation, especially of the poorer sort therein, who have most need, and from whom they expect no be<g ref="char:EOLhyphen"/>nefit. Were it to obtain riches, Honour, health, ease, or delight: many would then be ready and forward, in undertaking, or acting, of almost any thing: But when any thing concernes the good of the Nation, nothing <hi>(or very little)</hi> is done as it should be, scarcely by any man, unlesse by doing the same, there ariseth a particular benefit to himself, or his friends. Many are forward to help rich men, and others, their kindred, and friends; into places of Honour, Trust, or Benefit: yea to conferre divers such places upon one man; But if the poor want their assistance in any kind, either they are not at leasure, they can not answer his desires <hi>(though never so just and reaso<g ref="char:EOLhyphen"/>nable,)</hi> or it is not yet a seasonable time, and they will be sure to advise that which is for their own benefit, or send them to others for Councel, and en<g ref="char:EOLhyphen"/>deavour
+<pb n="3" facs="tcp:117527:2"/> to get none into a Free-Scoole, but such as learn <hi>Latine, (which the poor have no need of,)</hi> nor do a courtesie for any, unlesse they expect the like from them again.</p>
+            <p>Surely if by relieving the poor and oppressed, those that have already wronged them might have had a further benefit, they would long ere now have endeavoured the same: Or were rich men throughly sensible of the miseries of the poor, some relief would certainly have been procured before now: But although most men are like to be poor themselves, yet few do rightly consider them that are already so.</p>
+            <p>Never was there in <hi>England,</hi> so many in want of relief as now there is, yet there is no more allowance for the poor, then formerly: Nay, it is feared, that although formerly there was not the fourth part of the poor that now there is, yet there is not now the fourth part of the relief; <hi>(rightly enjoyed by the poor,)</hi> which formerly there was wont to be: And yet the Lawes are as strict as ever, that none shall steale, cheat, nor beg, which Lawes are good, provided there were also a Law <hi>(carfully put in execution)</hi> that none should starve: the truth is, the want of the one is the cause of so many transgressi<g ref="char:EOLhyphen"/>ons of the other: for what can any man do which hath a Family to main<g ref="char:EOLhyphen"/>tain, his Rent, Debts, Excise, and many other Taxes to pay, <hi>(of which nothing will be abated▪)</hi> having no money to discharge the same▪ his goods pawned, his food eaten, his Cloathes worn out, and his fewell burnt, not knowing where, or how, to be supplyed, would do any thing for an honest living but through the distraction of mind <hi>(arising from his extremity)</hi> or by age, sick<g ref="char:EOLhyphen"/>ness, blindness, lameness, or other defect, can not work, or else can get no im<g ref="char:EOLhyphen"/>ployment: (<hi>needes must they stand all the day idle, who can get no man to hire them. Math.</hi> 20.7.) And this will certainly bring them and their Children to fall into such a Consumption as many dye of, who are little better then starved: For they must needes consume and dye, who have all things consu<g ref="char:EOLhyphen"/>med, and nothing left to maintain life.</p>
+            <p>It is a hard streight when a man hath no money, yet must pay money; but can not earn it: For if he make it, or steale it, he shall dye by the Law: if he borrow it, and can not pay, he shall rot in prison, <hi>(which is a worse death;)</hi> if he have it not at all, he will certainly starve: <hi>(which is worst of all.) Lamentations</hi> 4.9. <hi>Those that are slain with the sword, are better then those that are slain with hunger, for these pine away.</hi>
+            </p>
+            <p>Life is sweete to all, therefore every rationall Creature will as long as it can: &amp; nature teacheth to chuse that death, which is farthest off &amp; most easie.</p>
+            <p>The necessities of many Thousands cry earnestly for help, and it is cer<g ref="char:EOLhyphen"/>tainly better to harken to them, when they in asking relief, do beg for
+<pb n="4" facs="tcp:117527:3"/> their lives, then to have their bloud cry alowd for vengeance unto him <hi>to whom vengeance belongs, and will certainly repay the same,</hi> Rom. 12.19▪ <hi>Surly opperession maketh a wise man mad, Eccle.</hi> 7.7. And it is known that when people are so, they will do mad actions; therefore it is better <hi>(by taking off their oppressions)</hi> to keepe them tame, then to runne the hazzard what they will do in time of their madnes. <hi>A prudent man fore<g ref="char:EOLhyphen"/>seeth an evill,</hi> &amp;c. Pro. 22.3. the truth is, that none <hi>(except those that are wil<g ref="char:EOLhyphen"/>fully blind)</hi> but do se to their greif, the sad &amp; lamentable condition of a mul<g ref="char:EOLhyphen"/>titude of people, in al places of this land; in so much that it is unpossible, how they can in an ordinary way subsist many daies, without some provision be made in their behalf: either by providing some other way for their mainte<g ref="char:EOLhyphen"/>nance, then formerly, or at lest by helping them to the enjoyment, of al things whatsoever, of right, belongeth unto them; which if they did rightly enjoy, and withall were so set on work <hi>(as they are in other Countries)</hi> that none might want imployment, then al who can do any thing, would be able to sub<g ref="char:EOLhyphen"/>sist without beging or using any indirect courses; which other-wise they will be enforced to use, or else must certainly perish.</p>
+            <p>The sad consideration whereof hath so seized upon our hearts, that we adjudged our selves oblieged, in relation of our duty to God, service to our Country, and safety to our selves, to use our utmost endeavours, by all law<g ref="char:EOLhyphen"/>full waies; for the diverting of Gods Judgments, the releiving the oppressed, and the peace, safety, and prosperity of this Nation: And do here there<g ref="char:EOLhyphen"/>fore humbly present to your honours, some causes <hi>(as we humbly conceive)</hi> of the misery, and penury of the poore, desiring that they may be removed, so far forth as not to encroach upon the juct liberties of others; And yet, the causes may be so removed, as that the effect may sease.</p>
+            <p>And 1. Because many materials are <hi>without restraint,</hi> carryed out of this Na<g ref="char:EOLhyphen"/>tion unwrought, and many times wrought in other Countries, and then brought hither againe; which might as well imploy our native people in working the same.</p>
+            <p n="2">2. Because many Commodities are wrought in other Countries, and without any restraint brought into this Nation; as by the booke of rates for the customes, published by this present Parlirment in the yeare 1642. it may plainly appear; When as we either have, or may have materi<g ref="char:EOLhyphen"/>alls sufficient in this land, to make the same; which <hi>(as we humbly conceive)</hi> might set more then one Million of poor native people on work.</p>
+            <p n="3">3. Because the Trade of Fishing is almost left off; which might imploy more then one hundred thousand poor people, from eight yeares old unto eighty, in planting hemp, in dressing and spining it, in making nets, and in
+<pb n="5" facs="tcp:117527:3"/> carrying and selling the fish▪ Besides Ship-Carpenters, Fishers, and Water<g ref="char:EOLhyphen"/>men; the <hi>French,</hi> the <hi>Flemings,</hi> and the <hi>Hollander,</hi> having about two thou<g ref="char:EOLhyphen"/>sand saile of Fishing vessels, yearly upon our coast, most of which vessels ha<g ref="char:EOLhyphen"/>ving an hundred nets a peece.</p>
+            <p n="4">4. Because of the deerness of Corne, which <hi>(as we humbly conceive)</hi> may be remedied, without compelling any man to sell it at a set price. If first, there were prohibition of feeding horse or swine with bread Corne; it being affir<g ref="char:EOLhyphen"/>med, that there is more then one thousand quarters of bran so spent, weekly, in, and about the City of <hi>London;</hi> besides, much is spent in making of Starch, which the poore would be glad to mix with meale, and make bread of the same. Secondly, if none were suffered to sell flower, or meale any waies sifted, but only so as it comes from the Mill. Thirdly, If none were suffered to buy or sell, Flower or Meale, in any stops or houses, but only in the open Markets for the same, at dew houres. Fourthly, If none were suffered to sell bread any other-waies, then by the pound <hi>(as it is sold in other Countries)</hi> that the buyer may know how much he hath for mony and the Baker may have liberty to set price of his bread, according to the goodnes of the same. Fifthly If the Lawes in force were put in execution, that no Beere, or Ale, shall be sold for above eight shillings <hi>per</hi> Barrell, containing, 36. Ale Gallons, and then it might be sold for a penny an Ale quart in sealed measures, and those that sell it, would at that rate, make twelve shillings <hi>per</hi> Barrell of the same.</p>
+            <p n="5">5. Because of the deereness of meat, and other food, arising partly, because the Laws in force are not put in execution, for prohibiting any <hi>(but such as are really sicke)</hi> from eating flesh at certain times; partly because the Butchers sell their meat by hand, and people not knowing the weight, know not how much they have for their mony: and partly, because they are so many doggs and deares, tollerated in this Nation; which although they yeeld little profit, yet they eate up that food, which might maintain a multitude both of men and beast.</p>
+            <p n="6">6. Because of the dearnes of all sorts of firing, by reason the Laws are not carefully executed, for preserving of timber and other wood, In so much that there hath been many millions of acres of wood-lands, put to other uses within this forty yeares.</p>
+            <p n="7">7. Because of the dearenesse of Cloathing, arising from the price of Wooll, by reason of many <hi>Staplers,</hi> and other <hi>Interlopers,</hi> and <hi>Forestalers</hi> of the Markets; whereby Wooll is now farre dearer, then it was when the Lawes were not so strickt in hindring the exportation of the same.</p>
+            <p n="8">8. Because of the dearenesse of Leather, by reason of the multitude
+<pb n="6" facs="tcp:117527:4"/> of Coaches that are covered with the same, which might as well be covered with other materialls.</p>
+            <p n="9">9. Because the Poore cannot <hi>(oftentimes)</hi> sue for their Rights, by reason <hi>(many times)</hi> the farrenesse of the Journey, together with the Chargeablenesse and tediousnesse of many Sutes of Law, is such, that it were better <hi>(many times)</hi> lose their due, or pay money wrongfully, then stand the sute in Law.</p>
+            <p n="10">10. Because many have freely lent most of that which they were worth, upon the Propositions of this present <hi>Parliament,</hi> Wherein <hi>(as we hum<g ref="char:EOLhyphen"/>bly conceive)</hi> the Publique Faith of this Nation was Engaged unto them; that they should be payd the same out of the first Delinquents Estates, should come into the Custody of this <hi>Honourable House:</hi> Yet seeing they lent so freely at the first, that they kept not enough in their hands to dou<g ref="char:EOLhyphen"/>ble the same, many of them are now in a famishing condition <hi>(if not some already perished)</hi> which <hi>(although to save their lives)</hi> cannot receive so much as the Interest of the same: which rich men, who lent so sparingly, as that they did double the same, doe now receive.</p>
+            <p n="11">11. Because <hi>(as it is very apparent)</hi> the burdens of Free Quarter, Ex<g ref="char:EOLhyphen"/>cise, and other Taxes have ordinarily laine far more heavy upon the middle &amp; poorer sort of People, then upon the Rich <hi>(proporitonably to their Estates)</hi> Although, whensoever there are places of any considerable benefit, it is a vaine thing for any, but Rich men, to seeke for the same.</p>
+            <p n="12">12. Because people are constrained to pay Tithes, and other enforced maintenance, both to <hi>Ministers</hi> and <hi>Impropriators,</hi> when as those that pay the same <hi>(oftentimes)</hi> want food for themselves and their families.</p>
+            <p n="13">13. Because the poore are constrained <hi>(by want)</hi> not onely to sell things at the cheapest rate, but also to buy at the dearest; because there is not a stock of <hi>Necessaries</hi> provided for the Poore, as formerly, where they might have provisions at a cheaper rate then others.</p>
+            <p n="14">14. Because they are deprived of many benefits which of right belong unto them, as are more particularly signified in this anexed Petition.</p>
+            <p rend="italic">All which, we trust, this Honourable House will be so deepely sensible of, that there will be some speedy course taken for the redresse of the same, which is our earnest desire and expectation; and which will deepely engage us, and many other your friends, to continue our hearty affections, and goe on, as formerly, not onely to pray, but also with the hazard of our lives,</p>
+            <p>To act for the preservation of this Honourable House.</p>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:117527:4"/>
+            <head>To the Honourable, the Supreame Authority of this Nation, the <hi>Commons</hi> of <hi>England,</hi> in Parliament Assembled. <hi>The humble Petition of divers Inhabitants of the City of London, and places adjacent in the behalfe of the poore of this Nation.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat as nothing is more acceptable to God then relieving the Op<g ref="char:EOLhyphen"/>pressed, so nothing is more constantly practised by wicked men, then grinding the Faces of the poore: And that the neglect of Justice upon such Offenders hath much imboldned them, As to bring many to po<g ref="char:EOLhyphen"/>verty, so to keepe them in a Famishing condition by withholding from them many <hi>Stipends</hi> and <hi>Legacies,</hi> And keeping them from the due benefit of <hi>Free-Schooles, Hospitalles, Almes Houses</hi> and <hi>Lands;</hi> As also of many <hi>Fenns, Chases, Forrests, Heaths, Mountaines, Plaines, Greenes, Leezes, Leacons, Woods, Copses, High-wayes, and other Commons,</hi> which of right and due belong unto them; As also by Trading with unlawfull <hi>Beames Weights and Measures.</hi>
+            </p>
+            <p>The extreamity they are brought unto by such unjust dealings: Toge<g ref="char:EOLhyphen"/>ther with the want of imployment, engageth your Petitioners <hi>(now some obstructions are removed)</hi> to make known their desires to this Honourable House.</p>
+            <p n="1">1. That some punishment be inflicted upon all those, that know of any kind of benefit belonging to the poore, and shall not forthwith discover the same, to such persons as shall be appointed by this Honou<g ref="char:EOLhyphen"/>rable House.</p>
+            <p n="2">2. That all that have any <hi>Monies, Goods, or necessaries</hi> in their pos<g ref="char:EOLhyphen"/>session, belonging to the poore, may be inforced to perfect their ac<g ref="char:EOLhyphen"/>counts.</p>
+            <p n="3">3. That the poore may injoy all <hi>Monies, Goods, Victuall, Firing, Cloths and other necessaries</hi> belonging to them.</p>
+            <p n="4">4. That all <hi>Free-Schooles, Hospitalls, Almes-houses and Lands,</hi> may be put to the uses for which they were given and bequeathed.</p>
+            <p n="5">5. That all <hi>Fenns, Chases, Forrests, Heaths, Mountaines, Plaines Greenes, Leezes, Leacons, Woods, Copses, High-wayes, and other Commons,</hi> which have been wrongfully enclosed, may forthwith be laid open, or imployed only to the use of such as do <hi>(Indeed)</hi> stand in want of the same.</p>
+            <p n="6">6. That those that have any way wronged the poore may suffer according to their demerrits.</p>
+            <p n="7">
+               <pb n="8" facs="tcp:117527:5"/>7. That the <hi>weights and measures</hi> allowable in this Nation, may be alike in all places of the same: And that no man presume to buy or sell by any other <hi>weight or measure</hi> then what shall be sealed, and agreeable unto the <hi>standard;</hi> but shall rather alter the price of the commodity, then the <hi>weight or measure</hi> by which it is bought and sold.</p>
+            <p n="8">8. That some effectuall course may be taken to set the poore on <hi>work;</hi> that those that are able to <hi>work</hi> and will not, may neither be suf<g ref="char:EOLhyphen"/>fered to begg, nor receive any benefit belonging to the poore: And that those who are not able to <hi>work</hi> or cannot in any wise by their <hi>labour</hi> maintain their charge, may be kept from perishing by some more equall way, then the almes of that particular parish wherein they dwell.</p>
+            <q>And we doubt not but the equity and great necessity of these our just desires, will prevaile with you for a speedy remedy hereof. In so doing, you may with confidence expect a blessing from God, and will also engage the hearts of your Petitioners, and other good men, the more firmly unto you, who in the beholding of Justice.</q>
+            <closer>Will pray for a blessing on this Honourable House.</closer>
+         </div>
+         <div type="reply_to_petition">
+            <head>Ordered by the Commons assembled in Parliament, That this be the Answer to be given to the said Petition, <hi>viz.</hi>
+            </head>
+            <p>THat the Petition hath been read, That the House findes therein no particular matter of present or effectuall Relief for the poor; But they have divers things under Consideration and Commitment, That they hope will be both of present and future Relief for the poor, which together with other matter of generall and neces<g ref="char:EOLhyphen"/>sary importance to the whole Nation, They will hasten the Consideration and Re<g ref="char:EOLhyphen"/>solution off, and had been forwarder therein already, but for the interruptions they dayly receive.</p>
+            <trailer>Collonel <hi>Venn</hi> is desired to return the Petitioners this Answer.</trailer>
+         </div>
+         <div type="appeal_procedure">
+            <p>Those that find themselves, or others wronged, or can propound any thing for the good of the poore, may make their addresse to the Committee for Complaints where Mr. <hi>Whitaker</hi> hath the chaire) unto which Committee is added Mr. <hi>Challoner, L. Mounson,</hi> Mr. <hi>Blackeston,</hi> Sir <hi>George Norton,</hi> Sir <hi>Ing. Boutchier,</hi> Mr. <hi>Trenchard,</hi> Mr. <hi>Allen,</hi> Mr. <hi>Garland,</hi> Col <hi>Rich,</hi> Mr. <hi>Hugh Edwards,</hi> Mr. <hi>Lister,</hi> Sir <hi>Henry Mildmay,</hi> Mr. <hi>Scot,</hi> Sir <hi>Willim Allyson,</hi> Sir <hi>Willam Marsham,</hi> Col. <hi>Moore,</hi> Mr. <hi>Garden,</hi> Mr. <hi>Wenver,</hi> Mr. <hi>Boone,</hi> Mr. <hi>Dove,</hi> Mr. <hi>Clement,</hi> Col <hi>Iones,</hi> and Mr. <hi>Hollowes,</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117527:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
